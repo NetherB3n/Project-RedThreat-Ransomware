@@ -5,7 +5,8 @@ A fileless powershell-based ransomware malware program that encrypts files with 
 - Frequently Updated
 - Fast Encryption Speed
 
-Want to purchase the program for yourself? Telegram: @netnobody18
+# Want to purchase it for yourself?
+# Telegram: @netnobody18
 
 # Demonstrational Video:
 https://github.com/NetherB3n/Project-RedThreat-Ransomware/assets/170534182/1db1a87b-5142-4a49-a2bf-95d7ca5d1bd1
