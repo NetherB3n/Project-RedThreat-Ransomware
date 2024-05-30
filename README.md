@@ -1,5 +1,6 @@
 # Project-RedThreat-Ransomware
 A fileless powershell-based ransomware malware program that encrypts files with AES and exfils key through discord webhook. Bypassing all antiviruses
+Completely FUD
 
 - Currently Bypassing all antiviruses (FUD). Powershell-based malware is a nightmare for modern antiviruses.
 - Frequently Updated
