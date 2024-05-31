@@ -5,6 +5,7 @@ Completely FUD
 - Currently Bypassing all antiviruses (FUD). Powershell-based malware is a nightmare for modern antiviruses.
 - Frequently Updated
 - Fast Encryption Speed
+- Fileless and easy to use
 
 # Want to purchase it for yourself?
 # Telegram: @netnobody18
